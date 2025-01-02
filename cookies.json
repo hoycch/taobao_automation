@@ -1,0 +1,32 @@
+[
+    {
+        "domain": "www.szjy188.com",
+        "expiry": 1735425235,
+        "httpOnly": true,
+        "name": "laravel_session",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "eyJpdiI6IlJzNEM2bm9nMXlTdjBDdk5GdWZNWFE9PSIsInZhbHVlIjoiTEM5NThJR2h5UzV2aHE5bnlyUnFldlg2MDFHd0Z3WXBvUGl1ak5TU0FQMk9rVzFveFYwaTFxVm1cL2llOW41T3lDMGs1WEVRYkE1bVwvRnpFNUZ6MTFWdz09IiwibWFjIjoiYzViODhlOWU5YmEwM2ZiMzAyMGI4YWVhMjU0ODExNDBkOGZjNjEwMmExZTBlZWE4MzU5NjJiYzIwMzhiZDQ1NSJ9"
+    },
+    {
+        "domain": "www.szjy188.com",
+        "expiry": 1769978033,
+        "httpOnly": true,
+        "name": "remember_client_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "eyJpdiI6IjJqMFVleU1qa2d4aklmYSswZjFLWkE9PSIsInZhbHVlIjoiXC9ORk1MUUEyb0dlYnI4dnhkRnlWdm01VGJZSUFpZThiVmdyNmlvajFuSXVjZXlJUlJleWdPZTc5KzVvQ2N5N0VncGZxS24rZkhBM3VESStmcXJ6ZjBEWDJFNDdNVUNJMHJ4ZEl1OXFyXC9cL250NXIrVG5peVliUnFpVmNPYXZOQk8iLCJtYWMiOiJmZDRiYjUwOTEzMDE1NWJlN2QxMzQ3NDNmOGNjMTYxOTEzZGRmYzdkYjYzZmQ3MzM1MzQ3MThhNzUzZDRiNWY0In0%3D"
+    },
+    {
+        "domain": "www.szjy188.com",
+        "expiry": 1735419816,
+        "httpOnly": true,
+        "name": "acw_tc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "2f6a1fe617354180163277772e8e53588dcb8354c78a9521041ecaafbe9ec4"
+    }
+]
